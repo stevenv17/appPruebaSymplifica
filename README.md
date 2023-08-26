@@ -13,3 +13,5 @@ en la clase AppPruebaAlianzaApplication (contiene el método main) click derecho
 como base de datos se escogio SQLite ya que es una DB embebida y así simplificar el despliegue. Esta DB esta en la raiz del proyecto con nombre database.sqlite. la tabla USERS la genera la aplicación automaticamente a partir de la entidad.
 
 La app se despliega en el puerto 9090
+
+La aplicación esta dividida en controladores, servicios, repositorios y entidades.
